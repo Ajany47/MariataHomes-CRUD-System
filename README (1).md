@@ -30,14 +30,17 @@ Mariata Homes needed a platform for clients to register for accommodation and fo
 
 ## 🖼 Screenshots
 
+## 🖼 Screenshots
+
 ![Registration Form](Images/mariata_page_10.png)  
 ![Accommodation Request Form](Images/mariata_page_11.png)  
 ![Login Form](Images/mariata_page_12.png)  
 ![ERD or UML Diagram](Images/mariata_page_14.png)  
-![Admin Dashboard](Images/mariata_page_17.png)  
-![Admin CRUD View](Images/mariata_page_18.png)  
-![Read Operation](Images/mariata_page_19.png)  
-![Delete Operation](Images/mariata_page_20.png)
+![Admin Dashboard](Images/mariata_page_21.png)  
+![Create Operation](Images/mariata_page_22.png)  
+![Read Operation](Images/mariata_page_23.png)  
+![Delete Operation](Images/mariata_page_24.png)
+
 
 ## 📫 Contact
 
