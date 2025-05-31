@@ -1,54 +1,56 @@
+💻 Mariata Homes CRUD System – System Design & Development
+This project showcases a fully documented CRUD system designed for Mariata Homes, a UK-based charity providing subsidized accommodation. The solution was developed as part of a postgraduate coursework submission for the System Design & Development module at the University of Greenwich.
 
-# Mariata Homes Web-Based CRUD System
+📘 Project Summary
+Mariata Homes sought to transition from a manual, paper-based registration system to a structured digital platform. The resulting prototype demonstrates:
 
-This is a system design and development project created during my postgraduate studies at the University of Greenwich. The solution addresses the digital transformation needs of Mariata Homes, a UK-based charity offering temporary housing assistance.
+User registration and login
 
-## 🧠 Project Overview
+Admin dashboard with full CRUD operations
 
-Mariata Homes needed a platform for clients to register for accommodation and for administrators to manage these records. This project involved the full design lifecycle: requirement analysis, data modeling, UI mockups, and CRUD operation logic.
+Normalized database schema (up to 3NF)
 
-## 🧱 Deliverables
+Front-end forms for user input and accommodation requests
 
-- 📄 Final report with ERD, UML diagrams, UI designs, and full CRUD walkthrough
-- 🧩 Data normalization to 3rd Normal Form (3NF)
-- 🔐 Admin and User roles with defined permissions
-- 📷 Annotated UI screenshots for login, registration, and admin management
+Comprehensive documentation including ERD, UML, and UI flows
 
-## 🛠 Tools & Techniques
+⚙️ Core Components
+Feature	Description
+🧩 Entity Design	User, Admin, and Accommodation entities with defined attributes
+📊 Data Normalization	Applied 1NF → 2NF → 3NF for efficient database structure
+📐 UML Diagrams	Includes Use Case and Class Diagrams for system modeling
+🔒 Admin Functionality	Perform Create, Read, Update, and Delete operations
+🧾 Documentation	Screenshots with annotations from both the frontend and backend operations
 
-- **Design**: ERD, UML Class & Use Case diagrams
-- **Frontend Prototypes**: HTML, Bootstrap (screenshots only)
-- **Database Design**: MySQL (normalized schema explained)
-- **Documentation**: Microsoft Word / PDF with screenshots and annotations
+🖼 Screenshots
+Type	Screenshot
+Registration Form	
+Accommodation Request	
+Login Form	
+UML / ERD	
+Admin Dashboard	
+Create Operation	
+Read Operation	
+Delete Operation	
 
-## 🎓 Academic Context
+📂 Documentation
+📄 Download the full system analysis report:
+MariataHomes_Coursework_Report.pdf
 
-- **Module**: COMP1430 – Systems Design and Development  
-- **Institution**: University of Greenwich  
-- **Year**: 2023/2024  
-- **Student**: Olubunmi Adenekan
+💡 Key Learnings
+End-to-end experience in designing database-driven systems
 
-## 🖼 Screenshots
+Practical application of normalization and relational modeling
 
-## 🖼 Screenshots
+Clarity in translating functional requirements into system flows
 
-![Registration Form](Images/mariata_page_10.png)  
-![Accommodation Request Form](Images/mariata_page_11.png)  
-![Login Form](Images/mariata_page_12.png)  
-![ERD or UML Diagram](Images/mariata_page_14.png)  
-![Admin Dashboard](Images/mariata_page_21.png)  
-![Create Operation](Images/mariata_page_22.png)  
-![Read Operation](Images/mariata_page_23.png)  
-![Delete Operation](Images/mariata_page_24.png)
+Exposure to UI/UX layout for user-facing and admin-facing systems
 
+🔗 View the Project Summary Post
+Check out the full breakdown and insights on LinkedIn:
+👉 linkedin.com/in/olubunmi-adenekan-b231847a
 
-## 📫 Contact
-
-**Olubunmi Adenekan**  
-📍 United Kingdom  
-🔗 [LinkedIn](https://www.linkedin.com/in/olubunmi-adenekan-b231847a/)  
-🛠 [GitHub](https://github.com/Ajany47)
-
-## 📎 Project Report
-
-📥 Download the full report here: `MariataHomes_Coursework_Report.pdf`
+📫 Contact
+Feel free to connect or share feedback:
+GitHub: Ajany47
+LinkedIn: linkedin.com/in/olubunmi-adenekan-b231847a
